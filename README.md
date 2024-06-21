@@ -1,5 +1,5 @@
 
-# Java Spring Boot Backend for Static Analysis
+# Java Spring Boot Backend for Static Code Review
 
 This Java Spring Boot application serves as the backend for the static analysis tool. It leverages the GitHub API to retrieve code repositories, conducts static analysis on the fetched code, stores the results in MongoDB, and integrates with the Slack API for notifications.
 
@@ -25,7 +25,7 @@ Prerequisites
 
 Installation
 ```bash
-  git clone https://gitlab.eeecs.qub.ac.uk/40293324/analyser_tool_server
+  git clone https://github.com/MBeattie02/code_review_tool_server.git
 ```
 
 
