@@ -1,0 +1,5 @@
+{
+  "insecureImports": {
+    "java.util.Date": "Use java.time.LocalDate or java.time.LocalDateTime"
+  }
+}
